@@ -7,6 +7,17 @@
     <title>Kindfolk Radio</title>
 </head>
 <body>
-    
+    <h1>Kindfolk Radio</h1>
+    <h4>Curated tracks from Kindfolk to fill your cup with JOY!</h4>
+    <div class = "radio">
+        <img>Album Cover</img>
+        <div class = "Title">Song Title</div>
+        <div class = "Artist">Artist Name</div>
+        <hr />
+        <div class = "radiowidget">Radio Widget Player</div>
+        <hr />
+        <div class = "addsongs"><button>Add to Kindfolk Radio Playlist</button></div>
+
+    </div>
 </body>
 </html>
